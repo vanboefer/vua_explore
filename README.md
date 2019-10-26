@@ -6,7 +6,7 @@ This repo contains the VuaExploration class used for data exploration and
 descriptive statistics of textual data in the [VUA format](#VUA-format)
 (used by the [CLTL](http://www.cltl.nl/) at VU Amsterdam).
 
-See the [example.ipynb]() notebook for usage demonstration.
+See the [example.ipynb](https://github.com/vanboefer/vua_explore/blob/master/example.ipynb) notebook for usage demonstration.
 
 The following data analyses are included:
 - text length
@@ -16,7 +16,7 @@ The following data analyses are included:
 - t-SNE plots
 
 ## Data
-The repo does not contain the data used in [example.ipynb]().
+The repo does not contain the data used in [example.ipynb](https://github.com/vanboefer/vua_explore/blob/master/example.ipynb).
 The data is available online (but needs to be converted to VUA format):
 - [davidson](https://github.com/t-davidson/hate-speech-and-offensive-language)
 - [gibert](https://github.com/aitor-garcia-p/hate-speech-dataset)
