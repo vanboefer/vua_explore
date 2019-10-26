@@ -1,0 +1,13 @@
+name: explore
+channels:
+  - districtdatalabs
+dependencies:
+  - python=3.7.0
+  - pandas=0.23.4
+  - nltk=3.3
+  - matplotlib=2.2.3
+  - scikit-learn=0.20
+  - yellowbrick=1.0.1
+  - jupyter
+  - jupyterlab
+  - ipykernel
